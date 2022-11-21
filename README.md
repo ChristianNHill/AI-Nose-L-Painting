@@ -3,7 +3,7 @@
 [<img src="https://i.ytimg.com/an_webp/t5ct2JIEhFU/mqdefault_6s.webp?du=3000&sqp=COO67ZsG&rs=AOn4CLBCbyeb5ULtO-WIHASQz8lvsRB3LQ" width="100%">](https://www.youtube.com/watch?v=t5ct2JIEhFU)
 
 
-This repo contains all the files, code, designs, and materials to replicate this project. If I'm missing anything please le me know.
+This repo contains all the files, code, designs, and materials to replicate this project. If I'm missing anything please let me know!
 
 ## Introduction
 
