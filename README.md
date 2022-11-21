@@ -21,7 +21,7 @@ If you have any questions, want to keep up with my work, or toss around ideas, p
 
 👤 **Chris Hill**
 
-- Website: [https://chrisnhill.com/)
+- Website: [chrisnhill.com](https://chrisnhill.com/)
 - Twitter: [@4Eyes6Senses](https://twitter.com/4Eyes6Senses)
 - Github: [@ChristianNHill](https://github.com/ChristianNHill)
 
