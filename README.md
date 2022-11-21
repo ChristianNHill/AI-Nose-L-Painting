@@ -1,9 +1,6 @@
 # Resolve-Ables: Visualize AI Nose Classifications With Light Painting
 
-[![Resolve-AI-Nose]          // Title
-(https://user-images.githubusercontent.com/22805894/203039893-479a5d1b-62a3-4152-a028-65cff48325d6.png)] // Thumbnail
-(https://www.youtube.com/watch?v=t5ct2JIEhFU) "Visualize AI Nose Classifications With Light Painting
-")    // Video Link
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://user-images.githubusercontent.com/22805894/203040576-bd6c0250-60e1-4073-afca-0e4726544547.jpg" width="100%">](https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.youtube.com/watch?v=t5ct2JIEhFU) "Visualize AI Nose Classifications With Light Painting")
 
 This repo contains all the files, code, designs, and materials to replicate this project. If I'm missing anything please le me know.
 
@@ -14,3 +11,4 @@ Inspired by Benjamin Cabé's Artificial Nose Project](https://blog.benjamin-cabe
 In this GitHub Wiki, you'll learn how to fabricate and program your own AI nose light painting wearable! With the device, you can train it to detect different scents and customize the output to create various artistic representations of smell and ML.
 
 If you have any questions, want to keep up with my work, or toss around ideas, please do so on my Twitter: @[4Eyes6Senses](https://twitter.com/4Eyes6Senses). Thanks!
+
