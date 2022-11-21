@@ -17,4 +17,4 @@ If you have any questions, want to keep up with my work, or toss around ideas, p
 
 * 🧰 [Bill of materials](./BOM/README.md) ;
 * 💻 [Code](./code) ;
-* 🖨️ [Enclosure files](./enclosure_STLs/README.md).
+* 🖨️ [Enclosure files](./Enclosure_STLs/README.md).
