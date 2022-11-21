@@ -18,3 +18,15 @@ If you have any questions, want to keep up with my work, or toss around ideas, p
 * 🧰 [Bill of materials](./BOM/README.md) ;
 * 💻 [Code](./code) ;
 * 🖨️ [Enclosure files](./Enclosure_STLs/README.md).
+
+👤 **Chris Hill**
+
+- Website: [https://chrisnhill.com/)
+- Twitter: [@4Eyes6Senses](https://twitter.com/4Eyes6Senses)
+- Github: [@ChristianNHill](https://github.com/ChristianNHill)
+
+## 📝 License 
+
+Copyright &copy; 2022-2023 [Chris Hill](https://github.com/ChristianNHill).
+
+This project is [MIT](/LICENSE) licensed.
