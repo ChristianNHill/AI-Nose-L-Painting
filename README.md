@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=t5ct2JIEhFU
 
 This repo contains all the files, code, designs, and materials to replicate this project. If I'm missing anything please let me know!
 
+Follow [this tutorial](https://www.instructables.com/Visualize-AI-Nose-Classifications-With-Light-Paint/) for step-by-step instruction on how to put it all together.
+
 ## Introduction
 
 Inspired by [Benjamin Cabé's Artificial Nose Project](https://blog.benjamin-cabe.com/2021/08/03/how-i-built-a-connected-artificial-nose/amp) & [Shawn Hymel's Sensor Fusion AI Nose Project](https://www.digikey.com/en/maker/projects/how-to-make-an-ai-powered-artificial-nose/3fcf88a89efa47a1b231c5ad209771), I wanted to create a system where two phenomena (smell and ML classification) could be visualized. My approach is through light painting, where the TFT screen on the Seeed Studio's Wio Terminal is photographed using long exposure to visualize the smells the AI nose detects and its confidence in the classification. The way it's currently programmed the color changes based on the scent recognized, and the circle on the TFT gets bigger or smaller based on the model’s confidence in its classification (more confident = larger circle), but this can be reprogrammed to any mapping you like. For the video above, blue is cologne, and white is ambient room smell.
