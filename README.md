@@ -2,7 +2,7 @@
 
 [![Resolve-AI-Nose]          // Title
 (https://user-images.githubusercontent.com/22805894/203039893-479a5d1b-62a3-4152-a028-65cff48325d6.png)] // Thumbnail
-(https://www.youtube.com/watch?v=t5ct2JIEhFU "Visualize AI Nose Classifications With Light Painting
+(https://www.youtube.com/watch?v=t5ct2JIEhFU) "Visualize AI Nose Classifications With Light Painting
 ")    // Video Link
 
 This repo contains all the files, code, designs, and materials to replicate this project. If I'm missing anything please le me know.
