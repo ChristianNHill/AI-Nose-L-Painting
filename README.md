@@ -1,6 +1,6 @@
 # Resolve-Ables: Visualize AI Nose Classifications With Light Painting
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://user-images.githubusercontent.com/22805894/203040576-bd6c0250-60e1-4073-afca-0e4726544547.jpg" width="100%">](https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.youtube.com/watch?v=t5ct2JIEhFU) "Visualize AI Nose Classifications With Light Painting")
+[<img src="https://github.com/ChristianNHill/AI-Nose-L-Painting/blob/main/Images/637b61112814a-fbutube-20221028_211143%20(5).jpg" width="100%">](https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.youtube.com/watch?v=t5ct2JIEhFU) "Visualize AI Nose Classifications With Light Painting")
 
 This repo contains all the files, code, designs, and materials to replicate this project. If I'm missing anything please le me know.
 
