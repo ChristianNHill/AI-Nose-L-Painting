@@ -15,7 +15,6 @@ If you have any questions, want to keep up with my work, or toss around ideas, p
 
 ## Repository contents
 
-* 💰 [Bill of materials](./bom/README.md) ;
-* ⚡ [Schematics & Wiring diagram](./schematics/README.md) ;
-* 👩‍💻 [Firmware source code](./firmware) ;
-* 🧊 [3D enclosure model files](./enclosure_STL/README.md).
+* 🧰 [Bill of materials](./bom/README.md) ;
+* 💻 [Code](./code) ;
+* 🖨️ [Enclosure files](./enclosure_STLs/README.md).
